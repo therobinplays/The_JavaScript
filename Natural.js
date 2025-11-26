@@ -7,4 +7,4 @@
 
     }
 
-   console.log("The sum of n natural number is",sum(5));
+   console.log("The sum of n natural number is",sum(5));          
