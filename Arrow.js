@@ -14,4 +14,5 @@ const greater = (a,b) =>
     return a,b;
     
 }
-    greater (12,22);
+
+greater (12,22);
